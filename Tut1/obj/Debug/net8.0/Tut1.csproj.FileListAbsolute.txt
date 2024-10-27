@@ -1,0 +1,15 @@
+D:\coding\c_sharp\Design\Tut1\bin\Debug\net8.0\Tut1.exe
+D:\coding\c_sharp\Design\Tut1\bin\Debug\net8.0\Tut1.deps.json
+D:\coding\c_sharp\Design\Tut1\bin\Debug\net8.0\Tut1.runtimeconfig.json
+D:\coding\c_sharp\Design\Tut1\bin\Debug\net8.0\Tut1.dll
+D:\coding\c_sharp\Design\Tut1\bin\Debug\net8.0\Tut1.pdb
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.AssemblyInfoInputs.cache
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.AssemblyInfo.cs
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.csproj.CoreCompileInputs.cache
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.sourcelink.json
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.dll
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\refint\Tut1.dll
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.pdb
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\Tut1.genruntimeconfig.cache
+D:\coding\c_sharp\Design\Tut1\obj\Debug\net8.0\ref\Tut1.dll
